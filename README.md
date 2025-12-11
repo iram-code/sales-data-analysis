@@ -1,8 +1,6 @@
 
 # Sample Data Analytics Project
 
-This is a beginner-friendly data analytics project you can upload to GitHub.
-
 ## 📌 Project: Sales Data Analysis
 
 ### ✔ Files Included
